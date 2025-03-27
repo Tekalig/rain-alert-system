@@ -1,4 +1,4 @@
-# rain_alert
+# Rain Alert System
 
 This project is a weather alert system that uses the OpenWeatherMap API to fetch weather forecasts and sends SMS notifications using Twilio. It informs the user if it's going to rain, be cloudy, or if it's a happy day.
 
