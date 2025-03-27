@@ -8,11 +8,10 @@ This project is a weather alert system that uses the OpenWeatherMap API to fetch
 - Sends an SMS alert to the user with the weather forecast.
 
 ## Requirements
-- Python 3.x
-- `requests` library
-- `twilio` library
-- An OpenWeatherMap API key.
-- A Twilio account with an active phone number.
+Install the required dependencies using the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+```
 
 ## Environment Variables
 The following environment variables must be set:
